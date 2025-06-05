@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nitish Paramanik | Terminal Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="terminal-window">
+        <div class="terminal-header">
+            <div class="terminal-buttons">
+                <div class="button close"></div>
+                <div class="button minimize"></div>
+                <div class="button maximize"></div>
+            </div>
+            <div class="terminal-title">nitish@portfolio ~ bash</div>
+            <div class="terminal-actions">
+                <button id="theme-toggle">🌓</button>
+            </div>
+        </div>
+        <div class="terminal-container">
+            <div id="terminal-output">
+                <pre class="welcome-text">
+   _   _ _ _   _     _     _____                                  _ _    
+  | \ | (_) |_(_)___| |__ |  __ \                                (_) |   
+  |  \| | | __| / __| '_ \| |__) |_ _ _ __ __ _ _ __ ___   __ _ _ | | __
+  | |\  | | |_| \__ \ | | |  ___/ _` | '__/ _` | '_ ` _ \ / _` | | |/ /
+  |_| \_|_|\__|_|___/_| |_|_|   \__,_| | | (_| | | | | | | (_| | |   < 
+                                       |_|  \__,_|_| |_| |_|\__,_|_|_|\_\
+                                                                       
+==========================================================================
+  Computer Science Engineer | Frontend Developer | Aspiring AI Developer
+==========================================================================
+
+Type 'help' to see available commands.
+                </pre>
+            </div>
+            <div class="input-line">
+                <span class="prompt">visitor@nitish-portfolio:~$</span>
+                <input type="text" id="command-input" autofocus>
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="main.js"></script>
+</body>
+</html>
