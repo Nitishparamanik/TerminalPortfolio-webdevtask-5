@@ -1,11 +1,13 @@
 # 🖥️ Terminal Portfolio - Nitish Paramanik
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://your-username.github.io/terminal-portfolio)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://github.com/Nitishparamanik/TerminalPortfolio-webdevtask-5)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 > An interactive terminal-style portfolio website that showcases my journey as a Computer Science Engineering student at C. V. Raman Global University.
+![image](https://github.com/user-attachments/assets/8e72a022-fd72-486d-b076-fd925938a06c)
+
 
 ## 🚀 Features
 
@@ -190,6 +192,6 @@ I'm **Nitish Paramanik**, a passionate Computer Science Engineering student at C
 
 **⭐ Star this repository if you found it helpful!**
 
-Made with ❤️ by [Nitish Paramanik](https://github.com/your-username)
+Made with ❤️ by [Nitish Paramanik](https://github.com/Nitishparamanik)
 
 </div>
